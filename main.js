@@ -1,5 +1,4 @@
 var list = ['owl', 'owl', 'owl', 'cat', 'dog', 'cow', 'lion', 'cow'];
-var item;
 var hash = {};
 
 list.forEach(function (item) {
